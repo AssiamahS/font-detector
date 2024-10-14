@@ -1,5 +1,14 @@
 # Font Detector
 
+
+```plaintext
+font-detector/
+│
+├── font_detector.py
+├── README.md
+
+
+
 A Python script to detect fonts used in an image by extracting text using OCR and matching it with available fonts.
 
 ## Prerequisites
