@@ -24,3 +24,8 @@ A Python script to detect fonts used in an image by extracting text using OCR an
    ```bash
    git clone https://github.com/your-repo/font-detector.git
    cd font-detector
+
+pip install -r requirements.txt
+
+run the script
+python font_detector.py
